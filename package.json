@@ -1,0 +1,13 @@
+{
+  "name": "secure-node-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal Node.js application for Docker security validation.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20.11.1"
+  }
+}
